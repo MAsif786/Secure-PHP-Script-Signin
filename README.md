@@ -9,10 +9,14 @@ Whatever you like :D
 
 Demo: https://lab.blackvikingpro.com/dev/secure/
 
+
 [ User: my-user | Pass: my-pass ]
+
 (Obviously this page does nothing in the demo.)
 
 Please, check out my website for more cool things :D
 
+
 https://blackvikingpro.com/
+
 https://lab.blackvikingpro.com/
