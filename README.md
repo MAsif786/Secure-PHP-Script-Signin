@@ -26,4 +26,5 @@ All the attacker would have to do is delete the cookie and keep retrying
 the password. Which can be accomplished in Python or something...
 
 > This project is still in development, but priority is limited. I only updated
-> this because it was requested. Please report bugs in the [Issues](https://github.com/BlackVikingPro/Secure-PHP-Script-Signin/issues) tab.
+> this because it was requested.
+>Please report bugs in the [Issues](https://github.com/BlackVikingPro/Secure-PHP-Script-Signin/issues) tab.
