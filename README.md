@@ -25,8 +25,6 @@ such, as even the code used simply bans the user based on a session variable.
 All the attacker would have to do is delete the cookie and keep retrying
 the password. Which can be accomplished in Python or something...
 
-**
-This is still in development, but priority is limited.
+** This is still in development, but priority is limited.
 I only updated this because it was requested. Please report
-bugs in the [Issues](https://github.com/BlackVikingPro/Secure-PHP-Script-Signin/issues) tab.
-**
+bugs in the [Issues](https://github.com/BlackVikingPro/Secure-PHP-Script-Signin/issues) tab. **
